@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Detector</string>
+    <string name="text_view1">Узнайте гей ли вы</string>
+    <string name="text1">sss</string>
+    <string name="switch1">Вы мужчина?</string>
+    <string name="switch2">Вам нравятся мужчины?</string>
+    <string name="hint">Количество половых связей с мужчинами</string>
+    <string name="button">Узнать!</string>
+
 </resources>
